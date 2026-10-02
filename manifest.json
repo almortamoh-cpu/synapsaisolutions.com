@@ -1,0 +1,21 @@
+{
+  "name": "Synaps AI Solutions",
+  "short_name": "Synaps AI",
+  "description": "Synaps AI Solutions provides integrated digital solutions, artificial intelligence, AI agents, automation, software development, system integration, and enterprise technology solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e2234",
+  "theme_color": "#1e2234",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["technology", "business", "productivity"],
+  "lang": "ar",
+  "dir": "rtl"
+}

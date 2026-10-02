@@ -1,0 +1,12 @@
+# Robots.txt for Synaps AI Solutions
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://synapsaisolutions.com/sitemap.xml
+
+# Host
+Host: https://synapsaisolutions.com
+
+# Crawl-delay
+Crawl-delay: 10

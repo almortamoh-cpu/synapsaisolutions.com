@@ -1,0 +1,7 @@
+# SPA fallback — serve index.html for client-side routes such as /services.
+# Without this, reloading or opening a deep link directly returns the host's
+# 404 page instead of the app.
+#
+# Honoured by Netlify and Cloudflare Pages. Vercel uses vercel.json instead,
+# and GitHub Pages uses the 404.html copy generated at the end of the build.
+/*    /index.html   200
